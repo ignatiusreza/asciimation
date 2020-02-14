@@ -1,0 +1,10 @@
+{
+  "name": "asciimation",
+  "version": "1.0.0",
+  "description": "Play ascii animation in the terminal",
+  "main": "index.js",
+  "repository": "git@github.com:ignatiusreza/asciimation.git",
+  "author": "Ignatius Reza <lyoneil.de.sire@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
